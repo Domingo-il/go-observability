@@ -1,4 +1,4 @@
-module github.com/rotem-ashkenazi/go-observability/pkg/tracing
+module github.com/Domingo-il/go-observability/pkg/tracing
 
 go 1.23.4
 

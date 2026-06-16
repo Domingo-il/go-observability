@@ -1,4 +1,4 @@
-module github.com/rotem-ashkenazi/go-observability/pkg/logger
+module github.com/Domingo-il/go-observability/pkg/logger
 
 go 1.23.4
 
